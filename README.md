@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shenori Weerakoon</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shenori-weerakoon" alt="shenori-weerakoon" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/@shenoriw09" target="blank"><img src="https://img.shields.io/twitter/follow/@shenoriw09?logo=twitter&style=for-the-badge" alt="@shenoriw09" /></a> </p>
 
 - 🔭 I’m currently working on [Cerinca UK](https://www.cerinca.co.uk/)
@@ -30,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shenori-weerakoon&show_icons=true&locale=en" alt="shenori-weerakoon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shenori-weerakoon&" alt="shenori-weerakoon" /></p>
-
