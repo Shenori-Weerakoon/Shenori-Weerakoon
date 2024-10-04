@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shenori Weerakoon</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-<p align="left"> <a href="https://twitter.com/@shenoriw09" target="blank"><img src="https://img.shields.io/twitter/follow/@shenoriw09?logo=twitter&style=for-the-badge" alt="@shenoriw09" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shenoriw09" target="blank"><img src="https://img.shields.io/twitter/follow/shenoriw09?logo=twitter&style=for-the-badge" alt="shenoriw09" /></a> </p>
 
 - 🔭 I’m currently working on [Cerinca UK](https://www.cerinca.co.uk/)
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@shenoriw09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shenoriw09" height="30" width="40" /></a>
+<a href="https://twitter.com/shenoriw09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shenoriw09" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shenori weerakoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shenori weerakoon" height="30" width="40" /></a>
 <a href="https://instagram.com/_dme.3_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dme.3_" height="30" width="40" /></a>
 </p>
