@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/shenoriw09" target="blank"><img src="https://img.shields.io/twitter/follow/shenoriw09?logo=twitter&style=for-the-badge" alt="shenoriw09" /></a> </p>
 
-- 🔭 I’m currently working on [Cerinca UK](https://www.cerinca.co.uk/)
+- 🔭 I’m currently working at [Register.LK]([https://www.cerinca.co.uk/](https://register.lk/))
 
 - 🌱 I’m currently learning **React Native, .NET and more**
 
